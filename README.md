@@ -8,7 +8,7 @@ The concept's and libraries that are used for developing this app are:<br />
       1] Retrofit - A type-safe REST client used for making API calls<br />
       2] Recycler view - ViewGroup that contains the views corresponding to the data <br />
       3] Working With API's. (disease.sh - Worldwide Open Disease Data API)
-      4] 
+  
       
       
 ## UI
